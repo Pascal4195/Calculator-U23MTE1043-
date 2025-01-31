@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class swing-calculator-U23MTE1043 {
+public class pascalCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
